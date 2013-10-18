@@ -3,6 +3,7 @@
 #include <msp430.h> 
 #include "PongHelper.h"
 
+// added a comment	
 
 /*
  * main.c
